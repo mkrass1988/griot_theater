@@ -1,0 +1,70 @@
+
+#parentContainer{
+    position: relative;
+    color: white;
+}
+
+#featured{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+}
+
+#pictureflex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+#readbtn{
+    justify-content: center;
+    align-items: center;
+}
+
+#read{
+    background-color: rgb(222, 171, 42);
+    color: white;
+}
+
+#form{
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    border: 2px solid lightgray;
+    width: 250px;
+    height: fit-content;
+    justify-content: center;
+}
+
+#april{
+    margin-left: 380px;
+    margin-right: 380px;
+    margin-top: 10px;
+    background-color: lightgray;
+    border: 3px;
+    border-radius: 3px;
+    border-color: black;
+}
+
+#mattbottom{
+    display: flex;
+}
+
+#bottomflex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+
+#bottomflex-1{
+    max-width: 300px;
+}
+
+
+
